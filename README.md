@@ -26,7 +26,7 @@ Here is a quick demo of the application in action.
 
 ---
 
-### ⚙️ Methods 🧠
+###  Methods 🧠
 
 * **Encoder (Image Feature Extraction)**
 * **Decoder (Caption Generation)**
