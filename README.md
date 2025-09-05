@@ -8,7 +8,7 @@ This project implements a deep learning model to automatically generate descript
 
 ### 🎥 Demo Video
 
-Here is a quick demo of the application in action.
+Here is a quick demo of the model in action.
 
 
 
