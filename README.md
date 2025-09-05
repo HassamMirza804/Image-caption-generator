@@ -1,4 +1,4 @@
-# 🛡️ Image Captioning Model
+# 🛡️ Image Captioning Generator
 
 This project uses a hybrid deep learning model to automatically create descriptions for images.
 
