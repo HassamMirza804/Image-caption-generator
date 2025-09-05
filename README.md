@@ -1,12 +1,16 @@
 # 🛡️ Image Captioning Generator
 
-This project uses a hybrid deep learning model to automatically create descriptions for images.
+This project implements a deep learning model to automatically generate descriptive captions for images. It uses a hybrid architecture combining a Convolutional Neural Network (CNN) for image feature extraction and a Recurrent Neural Network (RNN) for sequence generation.
 
 ---
+
+
 
 ### 🎥 Demo Video
 
 Here is a quick demo of the application in action.
+
+
 
 
 
@@ -18,12 +22,16 @@ Here is a quick demo of the application in action.
 * **Text Preprocessing**:  Includes functions for cleaning and tokenizing text data from a large dataset.
 * **Model Training & Prediction**: A complete pipeline for training the model and using it to predict captions for new images.
 
+
+
 ---
 
 ### ⚙️ Methods 🧠
 
 * **Encoder (Image Feature Extraction)**
 * **Decoder (Caption Generation)**
+
+
 
 ---
 
